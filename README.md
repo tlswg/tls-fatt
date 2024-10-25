@@ -1,6 +1,10 @@
 # tls-fatt
 Information about TLS WG formal analysis triage group
 
+# Membership
+
+[Current FATT Membership](fatt-membership.md)
+
 # FATT process diagrams
 
 ## FATT review process
@@ -10,3 +14,4 @@ Information about TLS WG formal analysis triage group
 ## FATT Integration with TLS WG Process
 
 ![FATT Integration with TLS WG Process Image](fatt-tlswg-integration.svg "FATT Integration with TLS WG Process")
+
