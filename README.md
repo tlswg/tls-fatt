@@ -5,8 +5,8 @@ Information about TLS WG formal analysis triage group
 
 _The FATT process is under discussion and development. This overview draws from the [initial FATT announcement](https://mailarchive.ietf.org/arch/msg/tls/FhhICSR3qlLHjFcf1cA7Iry11CA/), [TLS Interim on FATT](https://datatracker.ietf.org/meeting/interim-2024-tls-02/session/tls), and [A "permanent" Design Group for TLS](https://richsalz.github.io/draft-rsalz-tls-analysis/draft-rsalz-tls-analysis.html)_
 
-Tho goal of the FATT process is to maintain the high degree of
-cryptographic assurance in TLS 1.3 as it evolves as a living cryptographic protocol. This includes ensuring that existing security properties are maintained and new claimed properties are met and understood. The formal analysis triage process centers around the formal analysis triage panel made up of a group of experts in the field of security protocol formal analysis. This panel is consulted to provide input about the need for and the review of formal analysis into the working group process. This process is outlined below.
+The goal of the FATT process is to maintain the high degree of
+cryptographic assurance in TLS 1.3 as it evolves as a living cryptographic protocol. This includes ensuring that existing security properties are maintained and new claimed properties are met and understood. The formal analysis triage process centers around the formal analysis triage panel made up of a group of experts in the field of security protocol formal analysis. This panel is consulted to provide input about the need for and the review of formal analysis into the working group process. Recommendations output from the FATT for a particular document may range from 'nothing required' to 'pen-and-paper proof can be updated' to 'a formal methods model using a specific tool ought to be done' - the 'formal' is not limited to formal methods but to formal security modeling generally. This process is outlined below.
 
 ## The FATT Panel and FATT Liaison
 
