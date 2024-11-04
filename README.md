@@ -47,7 +47,7 @@ If some formal analysis has been done then the chairs will request that the FATT
 
 The assessment (if provided) will be provided along with the initial FATT assessment as comments to the working group last call process. The working group consensus process determines of the document is ready to progress to the IESG.  The working group is under no obligation to follow the FATT recommendations.  If the FATT fails to provide output within a reasonable time frame as determined by the working group chairs the processing of the document should continue as normal.
 
-The document shepherd should include a summary of the FATT review in the additional reviews section of the shepherd write-up (currently question 5).
+The document shepherd should include a summary of the FATT review in the additional reviews section of the shepherd write-up (currently question 5) along with any other relevant security analysis of the protocol changes, whether resulting from FATT interaction or not.
 
 # FATT Membership
 
