@@ -29,7 +29,7 @@ Below is a summary diagram of the integration of the FATT into the working group
 
 ### Document Adoption
 
-When a document is adopted by the working group the chairs will make a determination whether the change proposed by the document requires review by the FATT to determine if formal protocol analysis is necessary for the change. For example a proposal that modifies the TLS key schedule or the authentication process would likely result in asking the FATT, whereas a change that just modifies the operation security of the protocol such as modifying the SSLKEYLOG format would not. The working group chairs will inform the working group of this decision.
+When a document is adopted by the working group the chairs will make a determination whether the change proposed by the document requires review by the FATT to determine if formal protocol analysis is necessary for the change. For example a proposal that modifies the TLS key schedule or the authentication process would likely result in asking the FATT, whereas a change such as modifying the SSLKEYLOG format would not. The working group chairs will inform the working group of this decision.
 
 If FATT triage is deemed necessary then the working chairs will contact the FATT and request a Liaison be assigned to the document. THis request may be sent anywhere from when the document is adopted to 2 months after the adoption depending upon the current load of the FATT. The request to the FATT will include a link to the document and time frame in which the output of the FATT is requested. THis time frame will typically be 1 month. The FATT will be requested to provide an assessment of whether the document needs additional formal analysis to validate its security properties.
 
