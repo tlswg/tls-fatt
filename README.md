@@ -24,7 +24,7 @@ updated' to 'a formal methods model using a specific tool ought to be done' -
 the 'formal' is not limited to formal methods but to formal security modeling
 generally. This process is outlined below.
 
-## The FATT Panel and FATT Liaison
+## The FATT Panel and FATT Point Person
 
 The FATT panel is similar to a design team as defined in [Section 6.5 in RFC
 2418](https://www.rfc-editor.org/rfc/rfc2418#section-6.5). As with a design
@@ -43,19 +43,19 @@ repository. If a working group member has concerns about the FATT membership
 they may contact the working group chairs or the responsible Area Director.
 
 The deliberations and discussions of the FATT are private while the output
-consensus of the panel is public. A FATT liaison is selected from the FATT
+consensus of the panel is public. A FATT point person is selected from the FATT
 membership to interact with the working group and discuss the consensus of
-the FATT for a particular document. The intention is that the FATT liaison
+the FATT for a particular document. The intention is that the FATT point person
 for a document stays the same for the lifetime of the document in the working
-group, but if a liaison is not able to continue in this duty then a new
-liaison is assigned. The liaison also helps to make clarification and answer
-questions from the working group. The liaisons for particular working group
+group, but if a point person is not able to continue in this duty then a new
+point person is assigned. The point person also helps to make clarification and answer
+questions from the working group. The point people for particular working group
 documents will be maintained in this repo (unless there is an appropriate
 field for this in the data tracker). The communication between the FATT and
 the working group is covered by the IETF note-well.
 
 The diagram below provides an overview of the interaction between the working
-group and the FATT and FATT liaison.
+group and the FATT and FATT point person.
 
 ![alt text](fatt-review-process.svg)
 
@@ -77,7 +77,7 @@ change such as modifying the SSLKEYLOG format would not. The working group
 chairs will inform the working group of this decision.
 
 If FATT triage is deemed necessary then the working chairs will contact the
-FATT and request a liaison be assigned to the document. This request may be
+FATT and request a point person be assigned to the document. This request may be
 sent anywhere from when the document is adopted to 2 months after the
 adoption depending upon the current load of the FATT. The request to the FATT
 will include a link to the document and time frame in which the output of the
@@ -89,14 +89,14 @@ properties, and general estimates of the scope of work such recommendations
 would take to complete.
 
 The output of the FATT is posted to the working group by the FATT
-liaison. The output may say that additional analysis is not warranted or it
+point person. The output may say that additional analysis is not warranted or it
 may indicate what type of analysis should be done. The FATT may also ask the
 working group for clarification on what security properties are intended for
 a particular change. The FATT may also provide suggestions as to what tools
 can be used for the analysis or who may be able to help with the analysis.
 
 The working group takes this output as input to the design and analysis of
-the document. The working group may interact with the liaison on the working
+the document. The working group may interact with the point person on the working
 group mail list to ask for clarifications or more information. The working
 group is not obligated to follow the FATT recommendation. The working group
 does not need to wait on an initial FATT assessment in order to start work on
@@ -107,7 +107,7 @@ the document.
 During the development of the document the document authors and working group
 may try to address the comments made by the FATT. During development of the
 document the working group can request input from the FATT through the
-liaison on the working group mailing list. The FATT and the chairs will help
+point person on the working group mailing list. The FATT and the chairs will help
 the document authors and working group to find resources to assist in the
 analysis process. The Usable Formal Methods Research Group (UFMRG) in the
 IRTF may also be consulted to help with conducting formal analysis.
@@ -115,7 +115,7 @@ IRTF may also be consulted to help with conducting formal analysis.
 ### Working Group Last Call (WGLC)
 
 If some formal analysis has been done then the chairs will request that the
-FATT liaison for the document take the analysis that has been done for review
+FATT point person for the document take the analysis that has been done for review
 by the FATT during WGLC. This request will contain a link to the current
 document, a link to the analysis, and WGLC time frame. The FATT will be
 requested to provide an assessment of whether the document meets the claimed
