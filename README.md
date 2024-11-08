@@ -43,12 +43,14 @@ repository. If a working group member has concerns about the FATT membership
 they may contact the working group chairs or the responsible Area Director.
 
 The deliberations and discussions of the FATT are private while the output
-consensus of the panel is public. A FATT point person is selected from the FATT
-membership to interact with the working group and discuss the consensus of
-the FATT for a particular document. The intention is that the FATT point person
-for a document stays the same for the lifetime of the document in the working
-group, but if a point person is not able to continue in this duty then a new
-point person is assigned. The point person also helps to make clarification and answer
+consensus of the panel is public. All participants of the FATT who contribute 
+to a document triage report will be named as authors on the report.
+A FATT point person is selected from the FATT membership to interact with
+the working group and discuss the consensus of the FATT for a particular
+document. The intention is that the FATT point person for a document stays
+the same for the lifetime of the document in the working group, but if a
+point person is not able to continue in this duty then a new point person
+is assigned. The point person also helps to make clarification and answer
 questions from the working group. The point people for particular working group
 documents will be maintained in this repo (unless there is an appropriate
 field for this in the data tracker). The communication between the FATT and
