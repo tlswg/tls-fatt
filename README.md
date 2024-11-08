@@ -1,4 +1,4 @@
-x# tls-fatt
+# tls-fatt
 Information about TLS WG formal analysis triage group
 
 # FATT Process Overview
