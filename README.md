@@ -1,9 +1,9 @@
 # tls-fatt
-Information about TLS WG formal analysis triage group.
+Information about TLS WG Formal Analysis Triage Team (FATT).
 
 # FATT Process Overview
 
-_The FATT process is under discussion and development. This overview draws
+The FATT process is under discussion and development. This overview draws
 from the [initial FATT
 announcement](https://mailarchive.ietf.org/arch/msg/tls/FhhICSR3qlLHjFcf1cA7Iry11CA/),
 [TLS Interim on
