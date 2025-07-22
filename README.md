@@ -43,7 +43,7 @@ repository. If a working group member has concerns about the FATT membership
 they may contact the working group chairs or the responsible Area Director.
 
 The deliberations and discussions of the FATT are private while the output
-consensus of the panel is public. All participants of the FATT who contribute 
+consensus of the panel is public. All participants of the FATT who contribute
 to a document triage report will be named as authors on the report.
 A FATT point person is selected from the FATT membership to interact with
 the working group and discuss the consensus of the FATT for a particular
@@ -74,9 +74,11 @@ When a document is adopted by the working group the chairs will make a
 determination whether the change proposed by the document requires review by
 the FATT to determine if formal protocol analysis is necessary for the
 change. For example a proposal that modifies the TLS key schedule or the
-authentication process would likely result in asking the FATT, whereas a
-change such as modifying the SSLKEYLOG format would not. The working group
-chairs will inform the working group of this decision.
+authentication process or any other part of the cryptographic protocol that
+has been formally modeled and analyzed in the past would likely result in
+asking the FATT, whereas a change such as modifying the SSLKEYLOG format
+would not. The working group chairs will inform the working group of this
+decision.
 
 If FATT triage is deemed necessary then the working chairs will contact the
 FATT and request a point person be assigned to the document. This request may be
