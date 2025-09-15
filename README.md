@@ -127,7 +127,7 @@ security properties.
 
 The assessment (if provided) will be provided along with the initial FATT
 assessment as comments to the working group last call process. The working
-group consensus process determines of the document is ready to progress to
+group consensus process determines if the document is ready to progress to
 the IESG.  The working group is under no obligation to follow the FATT
 recommendations.  If the FATT fails to provide output within a reasonable
 time frame as determined by the working group chairs the processing of the
