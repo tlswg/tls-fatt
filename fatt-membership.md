@@ -1,4 +1,4 @@
-Current FATT Membership (2024-10-24)
+Current FATT Membership (2025-03-03)
 
 - Douglas Stebila
 - Dennis Jackson
@@ -7,4 +7,5 @@ Current FATT Membership (2024-10-24)
 - Karthikeyan Bhargavan
 - Vincent Cheval
 - Britta Hale
+- Thom Wiggers
 
