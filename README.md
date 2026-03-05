@@ -80,7 +80,7 @@ asking the FATT, whereas a change such as modifying the SSLKEYLOG format
 would not. The working group chairs will inform the working group of this
 decision.
 
-If FATT triage is deemed necessary then the working chairs will contact the
+If FATT triage is deemed necessary then the working group chairs will contact the
 FATT and request a point person be assigned to the document. This request may be
 sent anywhere from when the document is adopted to 2 months after the
 adoption depending upon the current load of the FATT. The request to the FATT
@@ -92,8 +92,9 @@ kind/character, regarding which established or newly claimed security
 properties, and general estimates of the scope of work such recommendations
 would take to complete.
 
-The output of the FATT is posted to the working group by the FATT
-point person. The output may say that additional analysis is not warranted or it
+The output of initial FATT review is posted to the working group by the FATT
+point person or working group chairs. 
+The output may say that additional analysis is not warranted or it
 may indicate what type of analysis should be done. The FATT may also ask the
 working group for clarification on what security properties are intended for
 a particular change. The FATT may also provide suggestions as to what tools
