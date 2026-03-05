@@ -1,19 +1,19 @@
 # Current drafts
 
-| Document  | FATT Point Person | Decision email[^1] | FATT email[^2] |
+| Document  | FATT Point Person | Decision email | Initial report |
 | --- | --- | --- | --- |
 | [Key update](https://datatracker.ietf.org/doc/draft-ietf-tls-extended-key-update/) | Thom Wiggers | TBA | TBA |
 | [PAKE](https://datatracker.ietf.org/doc/draft-ietf-tls-pake/) | TBA | TBA | TBA |
 | [RFC9147bis](https://datatracker.ietf.org/doc/draft-ietf-tls-rfc9147bis/) | TBA | TBA | TBA |
 
-# Completed drafts
+# Completed documents
 
-| Document  | FATT Point Person |
-| --- | --- |
-| [RFC8773bis](https://datatracker.ietf.org/doc/draft-ietf-tls-8773bis/) | Britta Hale |
+| Document  | FATT Point Person | Final report |
+| --- | --- | --- |
+| [RFC8773bis](https://datatracker.ietf.org/doc/draft-ietf-tls-8773bis/) | Britta Hale | [Report](https://github.com/tlswg/rfc8773bis/blob/main/fatt-review/IETF%20FATT%20Report%20-%208773bis.pdf)
 
-## Notes
+# Documents not reviewed by FATT
 
-[^1]: From the FATT process: "The working group chairs will inform the working group of this decision."
-
-[^2]: From the FATT process: "The output of the FATT is posted to the working group by the FATT point person."
+- [MLKEM](https://datatracker.ietf.org/doc/draft-ietf-tls-mlkem/)
+- [ECDHE-MLKEM](https://datatracker.ietf.org/doc/draft-ietf-tls-ecdhe-mlkem/)
+- [Hybrid key exchange in TLS 1.3](https://datatracker.ietf.org/doc/draft-ietf-tls-hybrid-design/)
