@@ -2,7 +2,7 @@
 
 | Document  | FATT Point Person | Decision email | Initial report |
 | --- | --- | --- | --- |
-| [Key update](https://datatracker.ietf.org/doc/draft-ietf-tls-extended-key-update/) | Thom Wiggers | TBA | TBA |
+| [Key update](https://datatracker.ietf.org/doc/draft-ietf-tls-extended-key-update/) | Thom Wiggers | [Email](https://mailarchive.ietf.org/arch/msg/tls/pYmjTTlYd11FnjdYoOL6RdGk0sk/) | [Report](https://datatracker.ietf.org/meeting/125/materials/slides-125-tls-sessa-fatt-report-on-eku-00) |
 | [PAKE](https://datatracker.ietf.org/doc/draft-ietf-tls-pake/) | TBA | TBA | TBA |
 | [RFC9147bis](https://datatracker.ietf.org/doc/draft-ietf-tls-rfc9147bis/) | TBA | TBA | TBA |
 
