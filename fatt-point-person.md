@@ -14,6 +14,8 @@
 
 # Documents not reviewed by FATT
 
-- [MLKEM](https://datatracker.ietf.org/doc/draft-ietf-tls-mlkem/)
+- [Legacy RSASSA-PKCS1-v1_5 codepoints for TLS 1.3](https://datatracker.ietf.org/doc/draft-ietf-tls-tls13-pkcs1/) see [msg](https://mailarchive.ietf.org/arch/msg/tls/ck3_YkhKczBOeUMR2Ll5JHIMWkc/)
+- [Hybrid key exchange in TLS 1.3](https://datatracker.ietf.org/doc/draft-ietf-tls-hybrid-design/) 
 - [ECDHE-MLKEM](https://datatracker.ietf.org/doc/draft-ietf-tls-ecdhe-mlkem/)
-- [Hybrid key exchange in TLS 1.3](https://datatracker.ietf.org/doc/draft-ietf-tls-hybrid-design/)
+- [ML-KEM Post-Quantum Key Agreement for TLS 1.3](https://datatracker.ietf.org/doc/draft-ietf-tls-mlkem/)
+- [Large Record Sizes for TLS and DTLS with Reduced Overhead](https://datatracker.ietf.org/doc/draft-ietf-tls-super-jumbo-record-limit/) see [msg](https://mailarchive.ietf.org/arch/msg/tls/4wUvaej_ucOjoyrPGJxf3mSme3g/)
