@@ -22,8 +22,8 @@ There was no official start date for the FATT process. It was first proposed in 
 | [Hybrid key exchange in TLS 1.3](https://datatracker.ietf.org/doc/draft-ietf-tls-hybrid-design/) | |
 | [ECDHE-MLKEM](https://datatracker.ietf.org/doc/draft-ietf-tls-ecdhe-mlkem/) | | 
 | [ML-KEM Post-Quantum Key Agreement for TLS 1.3](https://datatracker.ietf.org/doc/draft-ietf-tls-mlkem/) | | 
-| [The Transport Layer Security (TLS) Protocol Version 1.3](https://datatracker.ietf.org/doc/draft-ietf-tls-rfc8446bis/) | |
 | [Use of ML-DSA in TLS 1.3](https://datatracker.ietf.org/doc/draft-ietf-tls-mldsa/) | |
+| [The Transport Layer Security (TLS) Protocol Version 1.3](https://datatracker.ietf.org/doc/draft-ietf-tls-rfc8446bis/) | |
 | [A Flags Extension for TLS 1.3](https://datatracker.ietf.org/doc/draft-ietf-tls-tlsflags/) | |
 | [A well-known URI for publishing service parameters](https://datatracker.ietf.org/doc/draft-ietf-tls-wkech/) | |
 | [Deprecating Obsolete Key Exchange Methods in (D)TLS 1.2](https://datatracker.ietf.org/doc/draft-ietf-tls-deprecate-obsolete-kex/) | no message |
