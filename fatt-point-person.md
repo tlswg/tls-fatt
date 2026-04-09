@@ -12,7 +12,6 @@ There was no official start date for the FATT process. It was first proposed in 
 
 | Document  | FATT Point Person | Final report |
 | --- | --- | --- |
-| [RFC8773bis](https://datatracker.ietf.org/doc/draft-ietf-tls-8773bis/) | Britta Hale | [Report](https://github.com/tlswg/rfc8773bis/blob/main/fatt-review/IETF%20FATT%20Report%20-%208773bis.pdf)
 | [Certificate-Based Authentication with an External Pre-Shared Key](https://datatracker.ietf.org/doc/draft-ietf-tls-8773bis/) | Britta Hale | [Report](https://github.com/tlswg/rfc8773bis/blob/main/fatt-review/IETF%20FATT%20Report%20-%208773bis.pdf)
 | [RFC9853: Return Routability Check for DTLS 1.2 and 1.3](https://datatracker.ietf.org/doc/rfc9853/) | N/A | [Message](https://mailarchive.ietf.org/arch/msg/tls/bsy7kqODax0sxMkedJCUqPPAb64/) |
 
