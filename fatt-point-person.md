@@ -1,4 +1,4 @@
-There was no official start date for the FATT process. It was first proposed in March 2024; see [email](https://mailarchive.ietf.org/arch/msg/tls/RupKEHeJdAzxpNEZnRgerk4en1c/). Applying the FATT process to I-Ds that are at different stages in the WG process has been uneven and messy. The I-Ds listed here are those that were either adopted by the WG by and after March 2024. Note that [RFC 9345](https://datatracker.ietf.org/doc/rfc9345/) was published after March 2024, but draft-ietf-tls-already in the RFC Editor's queue by then.
+There was no official start date for the FATT process. It was first proposed in March 2024; see [email](https://mailarchive.ietf.org/arch/msg/tls/RupKEHeJdAzxpNEZnRgerk4en1c/). Applying the FATT process to I-Ds that are at different stages in the WG process has been uneven and messy. The I-Ds listed here are those that were either adopted by the WG by and after March 2024. Note that [RFC 9345](https://datatracker.ietf.org/doc/rfc9345/) was published after March 2024, but draft-ietf-tls-subcerts was already in the RFC Editor's queue by then.
 
 # Current drafts
 
