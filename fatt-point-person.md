@@ -18,6 +18,7 @@ There was no official start date for the FATT process. It was first proposed in 
 # Documents not reviewed by FATT
 | Document  | Decision email |
 | --- | --- |
+| [Updated recommendations for TLS keyshares](https://datatracker.ietf.org/doc/draft-westerbaan-tls-keyshare-recommendations/) | see [msg](https://mailarchive.ietf.org/arch/msg/tls/ckzUlvxUpa38lzHEVKwBlXwQ8x0/) |
 | [Legacy RSASSA-PKCS1-v1_5 codepoints for TLS 1.3](https://datatracker.ietf.org/doc/draft-ietf-tls-tls13-pkcs1/) | see [msg](https://mailarchive.ietf.org/arch/msg/tls/ck3_YkhKczBOeUMR2Ll5JHIMWkc/) |
 | [Hybrid key exchange in TLS 1.3](https://datatracker.ietf.org/doc/draft-ietf-tls-hybrid-design/) | no message |
 | [ECDHE-MLKEM](https://datatracker.ietf.org/doc/draft-ietf-tls-ecdhe-mlkem/) | no message | 
