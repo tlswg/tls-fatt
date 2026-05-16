@@ -78,7 +78,9 @@ change. For example a proposal that modifies the TLS key schedule or the
 authentication process or any other part of the cryptographic protocol that
 has been formally modeled and analyzed in the past would likely result in
 asking the FATT, whereas a change such as modifying the SSLKEYLOG format
-would not. The working group chairs will inform the working group of this
+would not. Symbolic and computational analysis (as defined in
+[SoK](https://eprint.iacr.org/2019/1393.pdf)) is in scope, whereas
+cryptanalysis is out of scope of FATT. The working group chairs will inform the working group of this
 decision.
 
 If FATT triage is deemed necessary then the working group chairs will contact the
