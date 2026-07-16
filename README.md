@@ -43,10 +43,10 @@ repository. If a working group member has concerns about the FATT membership
 they may contact the working group chairs or the responsible Area Director.
 
 The deliberations and discussions of the FATT are private while the output
-consensus of the panel is public. The FATT may solicit expert review inputs
+consensus of the panel is [public](fatt-point-person.md). The FATT may solicit expert review inputs
 and discussion as part of their triage process. All participants of the FATT
 who contribute to a document triage report will be named as authors on the
-report.  A FATT point person is selected from the FATT membership to interact
+report. A FATT point person is selected from the FATT membership to interact
 with the working group and discuss the consensus of the FATT for a particular
 document. The intention is that the FATT point person for a document stays
 the same for the lifetime of the document in the working group, but if a
