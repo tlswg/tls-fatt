@@ -74,7 +74,7 @@ group process.
 When a document is adopted by the working group the chairs will make a
 determination whether the change proposed by the document requires review by
 the FATT to determine if formal protocol analysis is necessary for the
-change. For example a proposal that modifies the TLS key schedule or the
+change; cryptanalysis is out of scope. For example a proposal that modifies the TLS key schedule or the
 authentication process or any other part of the cryptographic protocol that
 has been formally modeled and analyzed in the past would likely result in
 asking the FATT, whereas a change such as modifying the SSLKEYLOG format
