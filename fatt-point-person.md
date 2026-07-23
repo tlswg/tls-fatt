@@ -12,25 +12,24 @@ There was no official start date for the FATT process. It was first proposed in 
 
 | Document  | FATT Point Person | Final report |
 | --- | --- | --- |
-| [Certificate-Based Authentication with an External Pre-Shared Key](https://datatracker.ietf.org/doc/draft-ietf-tls-8773bis/) | Britta Hale | [Report](https://github.com/tlswg/rfc8773bis/blob/main/fatt-review/IETF%20FATT%20Report%20-%208773bis.pdf)
+| [Certificate-Based Authentication with an External Pre-Shared Key](https://datatracker.ietf.org/doc/rfc9973/) | Britta Hale | [Report](https://github.com/tlswg/rfc8773bis/blob/main/fatt-review/IETF%20FATT%20Report%20-%208773bis.pdf)
 | [RFC9853: Return Routability Check for DTLS 1.2 and 1.3](https://datatracker.ietf.org/doc/rfc9853/) | N/A | [Message](https://mailarchive.ietf.org/arch/msg/tls/bsy7kqODax0sxMkedJCUqPPAb64/) |
 
 # Documents not reviewed by FATT
 | Document  | Decision email |
 | --- | --- |
 | [Updated recommendations for TLS keyshares](https://datatracker.ietf.org/doc/draft-westerbaan-tls-keyshare-recommendations/) | see [msg](https://mailarchive.ietf.org/arch/msg/tls/ckzUlvxUpa38lzHEVKwBlXwQ8x0/) |
-| [Legacy RSASSA-PKCS1-v1_5 codepoints for TLS 1.3](https://datatracker.ietf.org/doc/draft-ietf-tls-tls13-pkcs1/) | see [msg](https://mailarchive.ietf.org/arch/msg/tls/ck3_YkhKczBOeUMR2Ll5JHIMWkc/) |
-| [Hybrid key exchange in TLS 1.3](https://datatracker.ietf.org/doc/draft-ietf-tls-hybrid-design/) | no message |
+| [Legacy RSASSA-PKCS1-v1_5 codepoints for TLS 1.3](https://datatracker.ietf.org/doc/rfc9963/) | see [msg](https://mailarchive.ietf.org/arch/msg/tls/ck3_YkhKczBOeUMR2Ll5JHIMWkc/) |
+| [Hybrid key exchange in TLS 1.3](https://datatracker.ietf.org/doc/rfc9954/) | no message |
 | [ECDHE-MLKEM](https://datatracker.ietf.org/doc/draft-ietf-tls-ecdhe-mlkem/) | no message | 
 | [ML-KEM Post-Quantum Key Agreement for TLS 1.3](https://datatracker.ietf.org/doc/draft-ietf-tls-mlkem/) | no message | 
 | [Use of ML-DSA in TLS 1.3](https://datatracker.ietf.org/doc/draft-ietf-tls-mldsa/) | no message |
-| [The Transport Layer Security (TLS) Protocol Version 1.3](https://datatracker.ietf.org/doc/draft-ietf-tls-rfc8446bis/) | no message |
+| [The Transport Layer Security (TLS) Protocol Version 1.3](https://datatracker.ietf.org/doc/rfc9846/) | no message |
 | [A Flags Extension for TLS 1.3](https://datatracker.ietf.org/doc/draft-ietf-tls-tlsflags/) | no message |
 | [A well-known URI for publishing service parameters](https://datatracker.ietf.org/doc/draft-ietf-tls-wkech/) | no message |
-| [Deprecating Obsolete Key Exchange Methods in (D)TLS 1.2](https://datatracker.ietf.org/doc/draft-ietf-tls-deprecate-obsolete-kex/) | no message |
+| [Deprecating Obsolete Key Exchange Methods in (D)TLS 1.2](https://datatracker.ietf.org/doc/rfc10015/) | no message |
 | [Large Record Sizes for TLS and DTLS with Reduced Overhead](https://datatracker.ietf.org/doc/draft-ietf-tls-super-jumbo-record-limit/) | see [msg](https://mailarchive.ietf.org/arch/msg/tls/4wUvaej_ucOjoyrPGJxf3mSme3g/) |
-| [Legacy RSASSA-PKCS1-v1_5 codepoints for TLS 1.3](https://datatracker.ietf.org/doc/draft-ietf-tls-tls13-pkcs1/) | see [msg](https://mailarchive.ietf.org/arch/msg/tls/ck3_YkhKczBOeUMR2Ll5JHIMWkc/) |
-| [The SSLKEYLOGFILE Format for TLS](https://datatracker.ietf.org/doc/draft-ietf-tls-keylogfile/) | no message |
-| [TLS 1.2 is in Feature Freeze](https://datatracker.ietf.org/doc/draft-ietf-tls-tls12-frozen/) | no message |
+| [The SSLKEYLOGFILE Format for TLS](https://datatracker.ietf.org/doc/rfc9850/) | no message |
+| [TLS 1.2 is in Feature Freeze](https://datatracker.ietf.org/doc/rfc9851/) | no message |
 | [TLS Trust Anchor Identifiers](https://datatracker.ietf.org/doc/draft-ietf-tls-trust-anchor-ids/) | no message | 
 | [TLS Key Share Prediction](https://datatracker.ietf.org/doc/draft-ietf-tls-key-share-prediction/) | no message |
