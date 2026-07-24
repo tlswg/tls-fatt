@@ -120,7 +120,7 @@ IRTF may also be consulted to help with conducting formal analysis.
 
 ### Working Group Last Call (WGLC)
 
-If some formal analysis has been done then the chairs will request that the
+[If some formal analysis](Collaboration) has been done then the chairs will request that the
 FATT point person for the document take the analysis that has been done for review
 by the FATT during WGLC. This request will contain a link to the current
 document, a link to the analysis, and WGLC time frame. The FATT will be
@@ -139,6 +139,43 @@ The document shepherd should include a summary of the FATT review in the
 additional reviews section of the shepherd write-up (currently question 5)
 along with any other relevant security analysis of the protocol changes,
 whether resulting from FATT interaction or not.
+
+# Collaboration
+
+While anyone can generate formal analysis for a draft (or RFC for that
+matter), there are a few points to remember about formal analysis that
+is intended for the FATT:
+
+The FATT was never intended to be and is not a general purpose formal
+analysis review panel. The purpose of the FATT is twofold: (1) advise on
+what analysis should be done, and (2) determine whether existing analysis
+is satisfactory for the draft in question. In more detail, if the FATT
+determines that formal analysis is needed for a draft -- and formal
+analysis is not needed for all drafts -- then the FATT will recommend
+the type of formal analysis that should be done. It is then the authors’
+responsibility to meet (or not) the request for from the FATT. In this
+way, the FATT is an advisory panel; its recommendations and evaluations
+are input to the WG process, not binding constraints. After this
+recommendation, provided the WG agrees with the FATT assessment, the
+document authors, in collaboration with the WG, will then prepare
+all relevant analysis artifacts for submission to the FATT in order to
+determine if this analysis is satisfactory. WG chairs dispatch requests
+to the FATT. The FATT responds via the point person and that point
+person is responsible for taking any WG discussion back and forth to
+the FATT. There is no mechanism for individuals to communicate with
+the FATT directly.
+
+There are a couple things to note: 
+
+1. Formal Analysis Experts can be WG members, non-WG members, or be
+authors themselves.
+2. Authors are responsible for driving and collating formal analysis
+artifacts that are provided to the FATT, and as a result, they are
+at liberty to accept or reject any formal analysis that is provided. 
+3. The WG interfaces with a FATT point person, after recommendations
+or suggestions have been provided – WG participants do not interact
+directly with the FATT. The chairs on behalf of the WG are responsible
+for providing input to the FATT.
 
 # FATT Membership
 
