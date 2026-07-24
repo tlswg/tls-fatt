@@ -157,7 +157,7 @@ responsibility to meet (or not) the request for from the FATT. In this
 way, the FATT is an advisory panel; its recommendations and evaluations
 are input to the WG process, not binding constraints. After this
 recommendation, provided the WG agrees with the FATT assessment, the
-document authors, in collaboration with the WG chairs, will then prepare
+document authors, in collaboration with the WG, will then prepare
 all relevant analysis artifacts for submission to the FATT in order to
 determine if this analysis is satisfactory. WG chairs dispatch requests
 to the FATT. The FATT responds via the point person and that point
