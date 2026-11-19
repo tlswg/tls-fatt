@@ -6,7 +6,7 @@ There was no official start date for the FATT process. It was first proposed in 
 | --- | --- | --- | --- |
 | [Key update](https://datatracker.ietf.org/doc/draft-ietf-tls-extended-key-update/) | Thom Wiggers | [Email](https://mailarchive.ietf.org/arch/msg/tls/pYmjTTlYd11FnjdYoOL6RdGk0sk/) | [Report](https://datatracker.ietf.org/meeting/125/materials/slides-125-tls-sessa-fatt-report-on-eku-00) |
 | [PAKE](https://datatracker.ietf.org/doc/draft-ietf-tls-pake/) | TBA | TBA | TBA |
-| [DTLS 1.3 bis](https://datatracker.ietf.org/doc/draft-ietf-tls-rfc9147bis/) | TBA | TBA | TBA |
+
 
 # Completed documents
 
@@ -18,6 +18,7 @@ There was no official start date for the FATT process. It was first proposed in 
 # Documents not reviewed by FATT
 | Document  | Decision email |
 | --- | --- |
+| [DTLS 1.3 bis](https://datatracker.ietf.org/doc/draft-ietf-tls-rfc9147bis/) | see [msg](https://mailarchive.ietf.org/arch/msg/tls/mMxNK8QzGd1eLLI_yyxOkXCqCZI/) |
 | [Updated recommendations for TLS keyshares](https://datatracker.ietf.org/doc/draft-westerbaan-tls-keyshare-recommendations/) | see [msg](https://mailarchive.ietf.org/arch/msg/tls/ckzUlvxUpa38lzHEVKwBlXwQ8x0/) |
 | [Legacy RSASSA-PKCS1-v1_5 codepoints for TLS 1.3](https://datatracker.ietf.org/doc/rfc9963/) | see [msg](https://mailarchive.ietf.org/arch/msg/tls/ck3_YkhKczBOeUMR2Ll5JHIMWkc/) |
 | [Hybrid key exchange in TLS 1.3](https://datatracker.ietf.org/doc/rfc9954/) | no message |
